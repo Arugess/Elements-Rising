@@ -1,1 +1,0 @@
-This blueprint activates when the player dies. It will take the player to a game over screen.
