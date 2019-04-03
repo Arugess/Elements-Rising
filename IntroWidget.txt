@@ -1,2 +1,0 @@
-This blueprint will start the player at the start screen.
-When the player clicks on the start button they will be taken to the main level.
